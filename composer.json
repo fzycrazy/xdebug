@@ -1,5 +1,5 @@
 {
-    "name": "it2bt/xdebug",
+    "name": "fzcrazy/xdebug",
     "description": "debug",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Xdebug": "src/"
+            "Xdebug\\": "src/"
         }
     }    
 }
